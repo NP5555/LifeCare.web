@@ -1,0 +1,39 @@
+.navbar {
+    /* background-color: #04315e; */
+    /* background-image: linear-gradient(rgb(136, 186, 230), rgb(25, 133, 127) ); */
+    background: white;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    cursor: pointer;
+    display: flex;
+    padding: 10px;
+}
+
+.navbar ul {
+    font-weight: bold;
+    color:#045b83dd;
+    display: flex;
+    gap: 70px;
+    list-style: none;
+    padding-left: 15%;
+    flex-grow: 1; 
+    justify-content: center;
+    font-size: large;
+}
+li:hover{
+    background-color: rgb(154, 150, 150);
+    color:white;
+    border-radius: 5px;
+    transform:scale(1.1);
+}
+
+.navbar input.search {
+    flex-shrink: 0; 
+    padding: 5px;
+    width: 200px; 
+    border: none;
+    border-radius: 4px;
+    color: black;
+}

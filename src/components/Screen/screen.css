@@ -1,0 +1,33 @@
+.screen {
+    display: flex;
+    margin-top: 80px;
+    justify-content: center;
+    gap: 50px;
+    height: 60vh;
+    margin-bottom: 50px;
+    /* border: 1px solid red; */
+
+}
+
+.screen .content {
+    /* background: #04315e; */
+    /* background-image: linear-gradient(  rgb(25, 133, 127), rgb(136, 186, 230)); */
+    /* border-radius: 30px; */
+    font-size: 1.3rem;
+    text-align: justify;
+    height: 53vh;
+    margin-top: 2.5%;
+    color: white;
+    margin-left: 1%;
+    padding: 1%;
+    /* border: 1px solid red; */
+}
+
+.img {
+    margin-right: 1.5%;
+    margin-top: 2.5%;
+    box-shadow: 3px 3px 2px 5px rgb(217, 205, 205);
+    height: 50vh;
+    /* border-radius: 15px; */
+    width: auto;
+}

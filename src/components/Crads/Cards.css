@@ -1,0 +1,8 @@
+.hover-zoom:hover {
+    transform: scale(1.25); /* Slight zoom on hover */
+    transition: transform 0.2s ease-in-out; /* Smooth zoom transition */
+  }
+  
+  .hover-shadow-lg:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+  }

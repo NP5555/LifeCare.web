@@ -1,0 +1,13 @@
+.Header{
+    /* background-color: #04315e; */
+    background-image: linear-gradient( to top , rgb(25, 133, 127), rgb(136, 186, 230));
+    color: white;
+    height: 9vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    /* box-shadow: 10px; */
+    /* box-shadow: 4px 4px 3px 6px rgb(208, 204, 204); */
+    font-weight: bold;
+}
